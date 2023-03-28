@@ -1,0 +1,20 @@
+[INFO][0][<module>] Darwin AleyasMBP 21.6.0 Darwin Kernel Version 21.6.0: Mon Dec 19 20:44:01 PST 2022; root:xnu-8020.240.18~2/RELEASE_X86_64 x86_64 i386
+[INFO][0][<module>] /Users/aleyakaushik/opt/anaconda3/envs/ilamb/lib/python3.9/site-packages/ILAMB (2.6)
+[INFO][0][<module>] /Users/aleyakaushik/opt/anaconda3/envs/ilamb/lib/python3.9/site-packages/numpy (1.24.2)
+[INFO][0][<module>] /Users/aleyakaushik/opt/anaconda3/envs/ilamb/lib/python3.9/site-packages/matplotlib (3.7.1)
+[INFO][0][<module>] /Users/aleyakaushik/opt/anaconda3/envs/ilamb/lib/python3.9/site-packages/netCDF4 (1.6.3)
+[INFO][0][<module>] /Users/aleyakaushik/opt/anaconda3/envs/ilamb/lib/python3.9/site-packages/cf_units (3.1.1)
+[INFO][0][<module>] /Users/aleyakaushik/opt/anaconda3/envs/ilamb/lib/python3.9/site-packages/sympy (1.11.1)
+[INFO][0][<module>] /Users/aleyakaushik/opt/anaconda3/envs/ilamb/lib/python3.9/site-packages/mpi4py (3.1.4)
+[INFO][0][<module>] 2023-03-23 18:11:22.864347
+[INFO][0][AnalysisMeanStateSpace][rsus] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsus] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceUpwardSWRadiation/CERES][CLMCopy] Success
+[INFO][0][AnalysisMeanStateSpace][albedo] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][albedo] RMSE scored using Collier2018
+[INFO][0][confront][Albedo/CERES][CLMCopy] Success
+[INFO][0][modelPlots][SurfaceUpwardSWRadiation/CERES][CLM40cn] Success
+[INFO][0][modelPlots][SurfaceUpwardSWRadiation/CERES][CLMCopy] Success
+[INFO][0][modelPlots][Albedo/CERES][CLM40cn] Success
+[INFO][0][modelPlots][Albedo/CERES][CLMCopy] Success
+[INFO][0][<module>][total time] 215.4 s
